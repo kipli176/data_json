@@ -1,0 +1,166 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "first_name": "Grane",
+            "last_name": "Craze",
+            "email": "gcraze0@cornell.edu",
+            "gender": "Male",
+            "ip_address": "158.97.194.180"
+        },
+        {
+            "id": 2,
+            "first_name": "Audie",
+            "last_name": "Masey",
+            "email": "amasey1@utexas.edu",
+            "gender": "Female",
+            "ip_address": "34.4.78.14"
+        },
+        {
+            "id": 3,
+            "first_name": "Maggee",
+            "last_name": "Seebright",
+            "email": "mseebright2@toplist.cz",
+            "gender": "Female",
+            "ip_address": "139.223.240.61"
+        },
+        {
+            "id": 4,
+            "first_name": "Nedi",
+            "last_name": "Lalor",
+            "email": "nlalor3@shop-pro.jp",
+            "gender": "Female",
+            "ip_address": "122.236.221.68"
+        },
+        {
+            "id": 5,
+            "first_name": "Erny",
+            "last_name": "Stewartson",
+            "email": "estewartson4@ehow.com",
+            "gender": "Male",
+            "ip_address": "80.241.137.99"
+        },
+        {
+            "id": 6,
+            "first_name": "Clareta",
+            "last_name": "Giggie",
+            "email": "cgiggie5@vimeo.com",
+            "gender": "Female",
+            "ip_address": "79.77.173.183"
+        },
+        {
+            "id": 7,
+            "first_name": "Arlen",
+            "last_name": "Doers",
+            "email": "adoers6@google.com.hk",
+            "gender": "Female",
+            "ip_address": "154.113.37.60"
+        },
+        {
+            "id": 8,
+            "first_name": "Meara",
+            "last_name": "Dotterill",
+            "email": "mdotterill7@chicagotribune.com",
+            "gender": "Female",
+            "ip_address": "173.129.219.114"
+        },
+        {
+            "id": 9,
+            "first_name": "Cherey",
+            "last_name": "O'Cahill",
+            "email": "cocahill8@virginia.edu",
+            "gender": "Female",
+            "ip_address": "44.178.254.250"
+        },
+        {
+            "id": 10,
+            "first_name": "Everard",
+            "last_name": "Sowray",
+            "email": "esowray9@icq.com",
+            "gender": "Male",
+            "ip_address": "50.47.149.168"
+        },
+        {
+            "id": 11,
+            "first_name": "Jemie",
+            "last_name": "Moohan",
+            "email": "jmoohana@mac.com",
+            "gender": "Female",
+            "ip_address": "89.24.203.231"
+        },
+        {
+            "id": 12,
+            "first_name": "Annetta",
+            "last_name": "Verrico",
+            "email": "averricob@yolasite.com",
+            "gender": "Female",
+            "ip_address": "151.59.63.43"
+        },
+        {
+            "id": 13,
+            "first_name": "Burt",
+            "last_name": "Lealle",
+            "email": "bleallec@diigo.com",
+            "gender": "Male",
+            "ip_address": "17.184.3.164"
+        },
+        {
+            "id": 14,
+            "first_name": "Sigismondo",
+            "last_name": "Fuidge",
+            "email": "sfuidged@mit.edu",
+            "gender": "Male",
+            "ip_address": "226.4.41.101"
+        },
+        {
+            "id": 15,
+            "first_name": "Guglielmo",
+            "last_name": "Norris",
+            "email": "gnorrise@jigsy.com",
+            "gender": "Male",
+            "ip_address": "180.220.72.239"
+        },
+        {
+            "id": 16,
+            "first_name": "Victoir",
+            "last_name": "Simonsen",
+            "email": "vsimonsenf@blogspot.com",
+            "gender": "Male",
+            "ip_address": "108.167.129.134"
+        },
+        {
+            "id": 17,
+            "first_name": "Nowell",
+            "last_name": "Cunniffe",
+            "email": "ncunniffeg@blog.com",
+            "gender": "Male",
+            "ip_address": "16.95.169.205"
+        },
+        {
+            "id": 18,
+            "first_name": "Wald",
+            "last_name": "Bernardon",
+            "email": "wbernardonh@weibo.com",
+            "gender": "Male",
+            "ip_address": "113.101.120.50"
+        },
+        {
+            "id": 19,
+            "first_name": "Ingram",
+            "last_name": "Dyment",
+            "email": "idymenti@theglobeandmail.com",
+            "gender": "Male",
+            "ip_address": "77.237.113.233"
+        },
+        {
+            "id": 20,
+            "first_name": "Art",
+            "last_name": "Baillie",
+            "email": "abailliej@google.fr",
+            "gender": "Male",
+            "ip_address": "190.34.65.184"
+        }
+    ],
+  "title": "CRUD Percobaan",
+  "error": false
+}
