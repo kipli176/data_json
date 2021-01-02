@@ -160,7 +160,5 @@
             "gender": "Male",
             "ip_address": "190.34.65.184"
         }
-    ],
-  "title": {"CRUD Percobaan"},
-  "error": false
+    ] 
 }
