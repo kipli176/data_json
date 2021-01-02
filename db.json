@@ -161,7 +161,6 @@
             "ip_address": "190.34.65.184"
         }
     ],
-  "title": "CRUD Percobaan",
-  "error": false,
-	"timestamp": "2020-04-02T17:26:13.265Z"
+  "title": {"CRUD Percobaan"},
+  "error": false
 }
